@@ -17,9 +17,10 @@ How It Works (Workflow):
 -Apply ML anomaly detection
 -Flag suspicious consumers
 -Generate alerts/reports
+https://drive.google.com/file/d/1vShi6VM9UiWyurcEwieY7e2KiqT2zr4o/view?usp=drivesdk
 
 Architecture Diagram:
-Add image or diagram link
+https://drive.google.com/file/d/1so1_dTIzuzwwVDpJ2V8jg-IlRCD16kh3/view?usp=drivesdk
 
 Tech Stack:
 -Google cloud Storage
@@ -33,7 +34,7 @@ Smart meter consumption data
 Public dataset / simulated data
 
 Current Status:
--MVP (concept + workflow ready)
+-MVP (concept + workflow ready) link:https://drive.google.com/file/d/1JyCvZmWdnIpkuzU1Gv5mpwcLxRA-pCxB/view?usp=drivesdk
 -Model training: basic / planned
 -Ul:not implemented
 
